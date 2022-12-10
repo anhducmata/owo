@@ -12,7 +12,7 @@
     "dd-trace": "^0.14.0",
     "eris-sharder": "^1.9.0",
     "eventemitter3": "^4.0.0",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "libsodium-wrappers": "^0.7.4",
     "mathjs": "^6.0.2",
     "merge-images": "^1.1.0",
